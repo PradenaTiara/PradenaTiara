@@ -188,7 +188,7 @@ Interactive OpenGL application implementing transformations, lighting, camera, t
 
 # 🤝 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://linkedin.com/in/pradenatiara">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
