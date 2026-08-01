@@ -2,6 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Pradena%20Tiara%20Maharani&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20Software%20Quality%20Assurance%20Enthusiast&descAlignY=58"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;Software+Quality+Assurance+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
+
+</div>
+
+---
+
 # 👋 About Me
 
 ```javascript
