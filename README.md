@@ -6,6 +6,16 @@
 
 </div>
 
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PradenaTiara/PradenaTiara/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PradenaTiara/PradenaTiara/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PradenaTiara/PradenaTiara/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
 ---
 
 # 👋 About Me
@@ -194,16 +204,6 @@ Interactive OpenGL application implementing transformations, lighting, camera, t
 <div align="center">
 
 ### 💙 Thanks for visiting!
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PradenaTiara/PradenaTiara/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PradenaTiara/PradenaTiara/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PradenaTiara/PradenaTiara/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
 
 <img src="https://komarev.com/ghpvc/?username=PradenaTiara&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
 
