@@ -3,19 +3,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Pradena%20Tiara%20Maharani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20Software%20Quality%20Assurance%20Enthusiast&descAlignY=58"/>
 
 <p align="center">
-
 <a href="https://pradenatiara.vercel.app">
-<img src="https://badgen.net/badge/Portfolio/Visit/111827?icon=chrome"/>
+<img src="https://skillicons.dev/icons?i=vercel" height="58"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/pradenatiara">
-<img src="https://badgen.net/badge/LinkedIn/Connect/0A66C2?icon=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="58"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:pradenat@gmail.com">
-<img src="https://badgen.net/badge/Gmail/Contact/EA4335?icon=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="58"/>
 </a>
-
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;Software+Quality+Assurance+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
