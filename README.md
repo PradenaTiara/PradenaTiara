@@ -199,7 +199,6 @@ Interactive OpenGL application implementing transformations, lighting, camera, t
 
 </p>
 
----
 
 <div align="center">
 
