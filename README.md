@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://pradenatiara.vercel.app">
-<img src="https://img.icons8.com/fluency/96/internet.png" height="58"/>
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" height="58"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/pradenatiara">
