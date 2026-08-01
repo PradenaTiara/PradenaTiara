@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/pradenatiara">
 <img src="https://skillicons.dev/icons?i=linkedin" height="58"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:pradenat@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="58"/>
 </a>
