@@ -1,112 +1,158 @@
-<h1 align="center">Hi, I'm Pradena Tiara Maharani 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Informatics Engineering Graduate</b> • <b>Frontend Developer</b> • <b>Software Quality Assurance Enthusiast</b>
-</p>
+# Pradena Tiara Maharani
 
-<p align="center">
-  Passionate about building modern web applications, creating intuitive user experiences, and ensuring software quality through effective testing and continuous improvement.
-</p>
+### Frontend Developer • Software Quality Assurance Enthusiast
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-</p>
+Building modern, responsive, and reliable web applications with a passion for clean code, intuitive user experiences, and software quality.
+
+<br>
+
+<a href="https://www.linkedin.com/in/pradenatiara/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://pradenatiara.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge"/>
+</a>
+<a href="mailto:pradenat@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,python,postgres,mysql,git,github,figma,vscode&perline=6"/>
+
+</div>
 
 ---
 
-## 👩‍💻 About Me
+# About
 
-I am an Informatics Engineering graduate with internship experience as a **Frontend Developer**, developing dashboard web applications using **Next.js**, **Tailwind CSS**, and **REST API integration**.
+I'm an **Informatics Engineering graduate** with internship experience as a **Frontend Developer**, building responsive dashboard applications using **Next.js**, **Tailwind CSS**, and **REST API integration**.
 
-I enjoy solving problems, writing clean and maintainable code, and continuously improving software quality. Currently, I am expanding my knowledge in **Software Quality Assurance**, software testing, and modern web development.
+I enjoy transforming ideas into intuitive digital experiences while continuously improving software quality through testing, clean architecture, and best development practices.
+
+Currently, I'm expanding my knowledge in **Software Quality Assurance**, **Test Automation**, and **Modern Web Development**.
 
 - 🎓 Bachelor's Degree in Informatics Engineering
 - 💼 Former Frontend Developer Intern
+- 🏆 Academic Excellence Scholarship Recipient (GPA **3.92/4.00**)
 - 🌱 Learning Software Testing & Test Automation
-- 💡 Interested in Frontend Engineering, QA Engineering, and UI/UX
 - 📍 Indonesia
 
 ---
 
-## 🛠 Tech Stack
+# Tech Stack
 
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | JavaScript, Python, SQL |
-| **Frontend** | Next.js, React, Tailwind CSS, HTML5, CSS3 |
-| **Backend** | REST API |
-| **Database** | PostgreSQL, MySQL |
-| **Tools** | Git, GitHub, Postman, Figma, VS Code |
+### Frontend
 
----
-
-## 🚀 Featured Projects
-
-### 📊 Dashboard Monitoring System
-Developed a responsive dashboard for monitoring electrical devices with authentication, real-time data visualization, and REST API integration.
-
-**Tech Stack:** Next.js • Tailwind CSS • PostgreSQL
-
----
-
-### 🎫 Ticket Reservation System
-Designed and developed a web-based ticket reservation system with booking management and responsive user interfaces.
-
-**Tech Stack:** HTML • CSS • JavaScript • PHP • MySQL
-
----
-
-### 🤖 Poetry Classification
-Built a machine learning application to classify Indonesian poetry using TF-IDF and Support Vector Machine (SVM).
-
-**Tech Stack:** Python • Scikit-learn • Flask
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PradenaTiara&show_icons=true&hide_border=true&rank_icon=github" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradenaTiara&layout=compact&hide_border=true" />
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,js"/>
 </p>
 
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=PradenaTiara&hide_border=true" />
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+</p>
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman"/>
 </p>
 
 ---
 
-## 🎯 Current Focus
+# Featured Projects
+
+## 📊 Dashboard Monitoring System
+
+Responsive dashboard application for monitoring electrical devices with authentication, real-time visualization, and REST API integration.
+
+**Tech Stack**
+
+`Next.js` • `Tailwind CSS` • `REST API` • `PostgreSQL`
+
+🔗 **Repository:** *(add your repository link)*
+
+---
+
+## 🤖 Poetry Classification
+
+Machine learning application for classifying Indonesian poetry using TF-IDF and Support Vector Machine (SVM).
+
+**Tech Stack**
+
+`Python` • `Scikit-learn` • `Flask`
+
+🔗 **Repository:** *(add your repository link)*
+
+---
+
+## 🎨 3D Computer Graphics
+
+Interactive 3D graphics application implementing object transformations, texturing, lighting, and rendering concepts using OpenGL.
+
+**Tech Stack**
+
+`C++` • `OpenGL`
+
+🔗 **Repository:** *(add your repository link)*
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PradenaTiara&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradenaTiara&layout=compact&hide_border=true&theme=transparent"/>
+
+</div>
+
+---
+
+# Current Focus
 
 - Frontend Development
 - Software Quality Assurance
 - Test Automation
-- Clean Code
+- UI/UX
 - Responsive Web Applications
+- Clean Code
 
 ---
 
-## 🤝 Let's Connect
+# Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pradenatiara/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:pradenat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://pradenatiara.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square">
-  </a>
+
+<a href="https://www.linkedin.com/in/pradenatiara/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pradenat@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://pradenatiara.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
-<p align="center">
-<i>"Always learning, continuously improving, and committed to building reliable software."</i>
-</p>
+<div align="center">
+
+*"Code with purpose. Learn continuously. Build with quality."*
+
+</div>
