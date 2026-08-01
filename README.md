@@ -1,107 +1,61 @@
 <div align="center">
 
-# Hi, I'm Pradena Tiara 👋
+# Hi, I'm Pradena Tiara Maharani 👋
 
 ### Frontend Developer • Software Quality Assurance Enthusiast
 
-Building modern web applications with clean code, intuitive experiences, and reliable software.
+Building modern, responsive, and reliable web applications with a passion for clean code, intuitive user experiences, and software quality.
 
 <br>
 
 <a href="https://www.linkedin.com/in/pradenatiara/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://pradenatiara.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge"/>
 </a>
+
 <a href="mailto:pradenat@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,python,cpp,postgres,mysql,git,github,figma,vscode"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,python,cpp,postgres,mysql,git,github,figma,vscode&theme=light"/>
 
 </div>
 
 ---
 
-## About
+# 👩🏻‍💻 About Me
 
-```text
-🎓 Informatics Engineering Graduate
-💼 Frontend Developer Intern
-🏆 GPA 3.92 / 4.00
-🧪 QA Enthusiast
-📍 Indonesia
-```
+I'm an **Informatics Engineering graduate** with internship experience as a **Frontend Developer**, specializing in developing responsive web applications using **Next.js**, **Tailwind CSS**, and **REST API integration**.
 
-I enjoy creating modern web applications that are responsive, scalable, and easy to maintain. My interests include Frontend Development, Software Quality Assurance, and UI/UX.
-
----
-
-## Tech Stack
-
-<div align="center">
-
-| Frontend | Backend | Database | Tools |
-|:---------:|:-------:|:--------:|:----:|
-| <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,html,css"/> | <img src="https://skillicons.dev/icons?i=python,cpp"/> | <img src="https://skillicons.dev/icons?i=postgres,mysql"/> | <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman"/> |
-
-</div>
-
----
-
-# Featured Projects
+I enjoy solving problems through clean architecture, intuitive user interfaces, and reliable software. Currently, I'm expanding my expertise in **Software Quality Assurance**, **Software Testing**, and **Test Automation**.
 
 <table>
 <tr>
 
-<td width="33%">
+<td width="50%">
 
-### 📊 Dashboard Monitoring
+### 🎓 Education
 
-Responsive dashboard for monitoring electrical devices.
-
-**Stack**
-
-Next.js
-
-Tailwind CSS
-
-REST API
-
-PostgreSQL
+- Bachelor's Degree in Informatics Engineering
+- Satya Wacana Christian University
+- GPA **3.92 / 4.00**
 
 </td>
 
-<td width="33%">
+<td width="50%">
 
-### 🤖 Poetry Classification
+### 🚀 Interests
 
-Machine learning model using TF-IDF & SVM.
-
-**Stack**
-
-Python
-
-Flask
-
-Scikit-learn
-
-</td>
-
-<td width="33%">
-
-### 🎨 Computer Graphics
-
-Interactive 3D graphics using OpenGL.
-
-**Stack**
-
-C++
-
-OpenGL
+- Frontend Development
+- Software Quality Assurance
+- Test Automation
+- UI/UX
+- Clean Code
 
 </td>
 
@@ -110,30 +64,175 @@ OpenGL
 
 ---
 
-## GitHub Analytics
+# 🛠 Tech Stack
+
+<table>
+
+<tr>
+
+<td align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,js"/>
+
+</td>
+
+<td align="center">
+
+### Programming
+
+<img src="https://skillicons.dev/icons?i=python,cpp"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+
+</td>
+
+<td align="center">
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="33%" valign="top">
+
+## 📊 Dashboard Monitoring
+
+Responsive dashboard application for monitoring electrical devices with authentication and real-time visualization.
+
+**Tech Stack**
+
+`Next.js`
+
+`Tailwind CSS`
+
+`REST API`
+
+`PostgreSQL`
+
+<a href="YOUR_REPOSITORY_LINK">
+Repository →
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🤖 Poetry Classification
+
+Machine learning application using TF-IDF and Support Vector Machine (SVM) for Indonesian poetry classification.
+
+**Tech Stack**
+
+`Python`
+
+`Flask`
+
+`Scikit-learn`
+
+<a href="YOUR_REPOSITORY_LINK">
+Repository →
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🎨 3D Computer Graphics
+
+Interactive OpenGL application implementing object transformations, texturing, lighting, and rendering.
+
+**Tech Stack**
+
+`C++`
+
+`OpenGL`
+
+<a href="YOUR_REPOSITORY_LINK">
+Repository →
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📈 GitHub Activity
+
+> If GitHub Stats is temporarily unavailable, your pinned repositories below will still showcase your work.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PradenaTiara&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradenaTiara&layout=compact&theme=transparent&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PradenaTiara&theme=github"/>
 
 </p>
 
 ---
 
-## Current Focus
+# 🌱 Currently Learning
 
-- Frontend Development
-- Software Quality Assurance
+- Software Testing
 - Test Automation
-- UI/UX
-- Clean Code
+- Frontend Performance Optimization
+- UI/UX Best Practices
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/pradenatiara/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:pradenat@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://pradenatiara.vercel.app/">
+<img src="https://img.icons8.com/fluency/48/domain.png" width="48"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-*"Code with purpose. Build with quality."*
+### Thanks for visiting!
+
+*"Building software that is not only functional, but also reliable, maintainable, and enjoyable to use."*
 
 </div>
