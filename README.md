@@ -188,16 +188,16 @@ Interactive OpenGL application implementing transformations, lighting, camera, t
 
 # 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/pradenatiara">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:pradenat@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://pradenatiara.vercel.app">
 <img src="https://img.icons8.com/color/48/domain.png"/>
 </a>
