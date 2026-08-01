@@ -1,18 +1,25 @@
+<!-- ========================================= -->
+<!--           PRADENA TIARA README            -->
+<!-- ========================================= -->
+
 <div align="center">
 
-# Hi, I'm Pradena Tiara Maharani 👋
+# 👋 Hi, I'm Pradena Tiara Maharani
 
 ### Frontend Developer • Software Quality Assurance Enthusiast
 
-Building modern, responsive, and reliable web applications with a passion for clean code, intuitive user experiences, and software quality.
+<p>
+Building modern, responsive, and reliable web applications with a passion for clean code,
+intuitive user experiences, and software quality.
+</p>
 
 <br>
 
-<a href="https://www.linkedin.com/in/pradenatiara/">
+<a href="https://www.linkedin.com/in/pradenatiara">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://pradenatiara.vercel.app/">
+<a href="https://pradenatiara.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge"/>
 </a>
 
@@ -22,7 +29,7 @@ Building modern, responsive, and reliable web applications with a passion for cl
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,python,cpp,postgres,mysql,git,github,figma,vscode&theme=light"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,python,cpp,postgres,mysql,git,github,figma,vscode&perline=6"/>
 
 </div>
 
@@ -30,41 +37,50 @@ Building modern, responsive, and reliable web applications with a passion for cl
 
 # 👩🏻‍💻 About Me
 
-I'm an **Informatics Engineering graduate** with internship experience as a **Frontend Developer**, specializing in developing responsive web applications using **Next.js**, **Tailwind CSS**, and **REST API integration**.
+I'm an **Informatics Engineering Graduate** with internship experience as a **Frontend Developer**, specializing in building responsive dashboard web applications using **Next.js**, **Tailwind CSS**, and **REST API integration**.
 
-I enjoy solving problems through clean architecture, intuitive user interfaces, and reliable software. Currently, I'm expanding my expertise in **Software Quality Assurance**, **Software Testing**, and **Test Automation**.
+I enjoy transforming ideas into intuitive digital experiences through clean architecture, maintainable code, and user-centered design. Currently, I'm expanding my expertise in **Software Quality Assurance**, **Software Testing**, and **Test Automation**.
+
+<br>
 
 <table>
+
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 Education
+## 🎓 Education
 
-- Bachelor's Degree in Informatics Engineering
-- Satya Wacana Christian University
-- GPA **3.92 / 4.00**
+Bachelor of Informatics Engineering
+
+**Satya Wacana Christian University**
+
+GPA **3.92 / 4.00**
+
+Academic Excellence Scholarship Recipient
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 Interests
+## 🚀 Interests
 
 - Frontend Development
 - Software Quality Assurance
 - Test Automation
-- UI/UX
+- UI / UX
+- Responsive Web Design
 - Clean Code
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
 <table>
 
@@ -112,127 +128,13 @@ I enjoy solving problems through clean architecture, intuitive user interfaces, 
 
 ---
 
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="33%" valign="top">
-
-## 📊 Dashboard Monitoring
-
-Responsive dashboard application for monitoring electrical devices with authentication and real-time visualization.
-
-**Tech Stack**
-
-`Next.js`
-
-`Tailwind CSS`
-
-`REST API`
-
-`PostgreSQL`
-
-<a href="YOUR_REPOSITORY_LINK">
-Repository →
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-## 🤖 Poetry Classification
-
-Machine learning application using TF-IDF and Support Vector Machine (SVM) for Indonesian poetry classification.
-
-**Tech Stack**
-
-`Python`
-
-`Flask`
-
-`Scikit-learn`
-
-<a href="YOUR_REPOSITORY_LINK">
-Repository →
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-## 🎨 3D Computer Graphics
-
-Interactive OpenGL application implementing object transformations, texturing, lighting, and rendering.
-
-**Tech Stack**
-
-`C++`
-
-`OpenGL`
-
-<a href="YOUR_REPOSITORY_LINK">
-Repository →
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📈 GitHub Activity
-
-> If GitHub Stats is temporarily unavailable, your pinned repositories below will still showcase your work.
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PradenaTiara&theme=github"/>
-
-</p>
-
----
-
 # 🌱 Currently Learning
 
 - Software Testing
 - Test Automation
 - Frontend Performance Optimization
-- UI/UX Best Practices
+- UI / UX Best Practices
+- Accessibility (WCAG)
+- Clean Architecture
 
 ---
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/pradenatiara/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:pradenat@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://pradenatiara.vercel.app/">
-<img src="https://img.icons8.com/fluency/48/domain.png" width="48"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### Thanks for visiting!
-
-*"Building software that is not only functional, but also reliable, maintainable, and enjoyable to use."*
-
-</div>
