@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://pradenatiara.vercel.app">
-<img src="https://skillicons.dev/icons?i=vercel" height="58"/>
+<img src="https://img.icons8.com/color/48/domain.png" height="58"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/pradenatiara">
