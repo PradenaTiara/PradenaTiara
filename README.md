@@ -203,7 +203,7 @@ Interactive OpenGL application implementing transformations, lighting, camera, t
 
 <div align="center">
 
-
+<br><br>
 
 ### 💙 Thanks for visiting!
 
