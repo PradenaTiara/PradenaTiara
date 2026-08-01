@@ -50,7 +50,7 @@ I enjoy solving problems, writing clean and maintainable code, and continuously 
 ### 📊 Dashboard Monitoring System
 Developed a responsive dashboard for monitoring electrical devices with authentication, real-time data visualization, and REST API integration.
 
-**Tech Stack:** Next.js • Tailwind CSS • NestJS • PostgreSQL
+**Tech Stack:** Next.js • Tailwind CSS • PostgreSQL
 
 ---
 
