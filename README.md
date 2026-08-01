@@ -182,6 +182,7 @@ Interactive OpenGL application implementing transformations, lighting, camera, t
 ---
 
 # 🤝 Connect With Me
+<br>
 
 <p align="center">
 
@@ -201,6 +202,8 @@ Interactive OpenGL application implementing transformations, lighting, camera, t
 
 
 <div align="center">
+
+
 
 ### 💙 Thanks for visiting!
 
