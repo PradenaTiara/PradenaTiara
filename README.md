@@ -158,16 +158,6 @@ Interactive OpenGL application implementing transformations, lighting, camera, t
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PradenaTiara&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
 # 🌱 Currently Learning
 
 ```text
