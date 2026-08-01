@@ -144,8 +144,6 @@ Interactive OpenGL application implementing transformations, lighting, camera, t
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PradenaTiara&show_icons=true&theme=github_dark&hide_border=true"/>
-
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=PradenaTiara&theme=github-dark-blue&hide_border=true"/>
 
 </p>
