@@ -1,137 +1,139 @@
 <div align="center">
 
-# Pradena Tiara Maharani
+# Hi, I'm Pradena Tiara 👋
 
 ### Frontend Developer • Software Quality Assurance Enthusiast
 
-Building modern, responsive, and reliable web applications with a passion for clean code, intuitive user experiences, and software quality.
+Building modern web applications with clean code, intuitive experiences, and reliable software.
 
 <br>
 
 <a href="https://www.linkedin.com/in/pradenatiara/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://pradenatiara.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=flat"/>
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge"/>
 </a>
-&nbsp;
 <a href="mailto:pradenat@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,python,cpp,postgres,mysql,git,github,figma,vscode&perline=6"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,python,cpp,postgres,mysql,git,github,figma,vscode"/>
 
 </div>
 
-<br>
+---
 
-# 👋 About Me
+## About
 
-I'm an **Informatics Engineering graduate** with internship experience as a **Frontend Developer**, specializing in building responsive web applications using **Next.js**, **Tailwind CSS**, and **REST API integration**.
+```text
+🎓 Informatics Engineering Graduate
+💼 Frontend Developer Intern
+🏆 GPA 3.92 / 4.00
+🧪 QA Enthusiast
+📍 Indonesia
+```
 
-I enjoy solving problems through clean architecture, intuitive user interfaces, and reliable software. Currently, I'm expanding my expertise in **Software Quality Assurance**, **Software Testing**, and **Modern Web Development**.
+I enjoy creating modern web applications that are responsive, scalable, and easy to maintain. My interests include Frontend Development, Software Quality Assurance, and UI/UX.
 
-<br>
+---
 
-## ✨ Quick Facts
-
-- 🎓 Bachelor's Degree in Informatics Engineering
-- 🏆 Academic Excellence Scholarship Recipient (**GPA 3.92 / 4.00**)
-- 💼 Former Frontend Developer Intern
-- 🧪 Interested in Software Quality Assurance
-- 🌱 Currently learning Test Automation
-- 📍 Indonesia
-
-<br>
-
-# 💻 Tech Stack
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,js"/>
-
-### Programming
-
-<img src="https://skillicons.dev/icons?i=python,cpp"/>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman"/>
-
-<br>
-
-# 🚀 Featured Projects
-
-### 📊 Dashboard Monitoring System
-
-Responsive dashboard application for monitoring electrical devices with authentication, real-time data visualization, and REST API integration.
-
-**Tech Stack**
-
-`Next.js` • `Tailwind CSS` • `REST API` • `PostgreSQL`
-
-🔗 Repository: **Coming Soon**
-
-<br>
-
-### 🤖 Poetry Classification
-
-Machine learning application that classifies Indonesian poetry using **TF-IDF** and **Support Vector Machine (SVM)**.
-
-**Tech Stack**
-
-`Python` • `Scikit-learn` • `Flask`
-
-🔗 Repository: **Coming Soon**
-
-<br>
-
-### 🎨 3D Computer Graphics
-
-Interactive OpenGL application implementing transformations, lighting, texturing, and object rendering.
-
-**Tech Stack**
-
-`C++` • `OpenGL`
-
-🔗 Repository: **Coming Soon**
-
-<br>
-
-# 📈 GitHub Analytics
+## Tech Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PradenaTiara&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradenaTiara&layout=compact&hide_border=true&theme=transparent"/>
+| Frontend | Backend | Database | Tools |
+|:---------:|:-------:|:--------:|:----:|
+| <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,html,css"/> | <img src="https://skillicons.dev/icons?i=python,cpp"/> | <img src="https://skillicons.dev/icons?i=postgres,mysql"/> | <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman"/> |
 
 </div>
 
-<br>
+---
 
-# 🎯 Current Focus
+# Featured Projects
+
+<table>
+<tr>
+
+<td width="33%">
+
+### 📊 Dashboard Monitoring
+
+Responsive dashboard for monitoring electrical devices.
+
+**Stack**
+
+Next.js
+
+Tailwind CSS
+
+REST API
+
+PostgreSQL
+
+</td>
+
+<td width="33%">
+
+### 🤖 Poetry Classification
+
+Machine learning model using TF-IDF & SVM.
+
+**Stack**
+
+Python
+
+Flask
+
+Scikit-learn
+
+</td>
+
+<td width="33%">
+
+### 🎨 Computer Graphics
+
+Interactive 3D graphics using OpenGL.
+
+**Stack**
+
+C++
+
+OpenGL
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PradenaTiara&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradenaTiara&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+## Current Focus
 
 - Frontend Development
 - Software Quality Assurance
 - Test Automation
 - UI/UX
 - Clean Code
-- Responsive Web Applications
 
-<br>
+---
 
 <div align="center">
 
-### Thanks for visiting!
-
-*"Code with purpose. Learn continuously. Build with quality."*
+*"Code with purpose. Build with quality."*
 
 </div>
