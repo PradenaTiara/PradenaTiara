@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Pradena%20Tiara%20Maharani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20Software%20Quality%20Assurance%20Enthusiast&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Pradena%20Tiara%20Maharani&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20Software%20Quality%20Assurance%20Enthusiast&descAlignY=58"/>
 
 <p align="center">
 <a href="https://pradenatiara.vercel.app">
-<img src="https://img.icons8.com/fluency/96/internet.png" height="40"/>
+<img src="https://img.icons8.com/fluency/96/internet.png" height="58"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/pradenatiara">
