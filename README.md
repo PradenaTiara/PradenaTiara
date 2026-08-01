@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 </p>
@@ -39,7 +39,7 @@ I enjoy solving problems, writing clean and maintainable code, and continuously 
 |----------|--------------|
 | **Languages** | JavaScript, Python, SQL |
 | **Frontend** | Next.js, React, Tailwind CSS, HTML5, CSS3 |
-| **Backend** | NestJS, REST API |
+| **Backend** | REST API |
 | **Database** | PostgreSQL, MySQL |
 | **Tools** | Git, GitHub, Postman, Figma, VS Code |
 
