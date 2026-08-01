@@ -67,15 +67,19 @@ const tiara = {
 <img src="https://skillicons.dev/icons?i=php,nodejs,java,spring,python,cpp"/>
 
 ### Database
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
 </div>
 
 ### Tools
 
+<div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="50"/>
+</div>
 
 </div>
 
