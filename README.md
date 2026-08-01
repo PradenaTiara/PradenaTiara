@@ -9,149 +9,128 @@ Building modern, responsive, and reliable web applications with a passion for cl
 <br>
 
 <a href="https://www.linkedin.com/in/pradenatiara/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://pradenatiara.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-111827?style=flat"/>
 </a>
+&nbsp;
 <a href="mailto:pradenat@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,python,postgres,mysql,git,github,figma,vscode&perline=6"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,python,cpp,postgres,mysql,git,github,figma,vscode&perline=6"/>
 
 </div>
 
----
+<br>
 
-# About
+# 👋 About Me
 
-I'm an **Informatics Engineering graduate** with internship experience as a **Frontend Developer**, building responsive dashboard applications using **Next.js**, **Tailwind CSS**, and **REST API integration**.
+I'm an **Informatics Engineering graduate** with internship experience as a **Frontend Developer**, specializing in building responsive web applications using **Next.js**, **Tailwind CSS**, and **REST API integration**.
 
-I enjoy transforming ideas into intuitive digital experiences while continuously improving software quality through testing, clean architecture, and best development practices.
+I enjoy solving problems through clean architecture, intuitive user interfaces, and reliable software. Currently, I'm expanding my expertise in **Software Quality Assurance**, **Software Testing**, and **Modern Web Development**.
 
-Currently, I'm expanding my knowledge in **Software Quality Assurance**, **Test Automation**, and **Modern Web Development**.
+<br>
+
+## ✨ Quick Facts
 
 - 🎓 Bachelor's Degree in Informatics Engineering
+- 🏆 Academic Excellence Scholarship Recipient (**GPA 3.92 / 4.00**)
 - 💼 Former Frontend Developer Intern
-- 🏆 Academic Excellence Scholarship Recipient (GPA **3.92/4.00**)
-- 🌱 Learning Software Testing & Test Automation
+- 🧪 Interested in Software Quality Assurance
+- 🌱 Currently learning Test Automation
 - 📍 Indonesia
 
----
+<br>
 
-# Tech Stack
+# 💻 Tech Stack
 
 ### Frontend
 
-<p>
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,js"/>
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-</p>
 
 ### Programming
 
-<p>
 <img src="https://skillicons.dev/icons?i=python,cpp"/>
-</p>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
 
 ### Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman"/>
-</p>
 
----
+<br>
 
-# Featured Projects
+# 🚀 Featured Projects
 
-## 📊 Dashboard Monitoring System
+### 📊 Dashboard Monitoring System
 
-Responsive dashboard application for monitoring electrical devices with authentication, real-time visualization, and REST API integration.
+Responsive dashboard application for monitoring electrical devices with authentication, real-time data visualization, and REST API integration.
 
 **Tech Stack**
 
 `Next.js` • `Tailwind CSS` • `REST API` • `PostgreSQL`
 
-🔗 **Repository:** *(add your repository link)*
+🔗 Repository: **Coming Soon**
 
----
+<br>
 
-## 🤖 Poetry Classification
+### 🤖 Poetry Classification
 
-Machine learning application for classifying Indonesian poetry using TF-IDF and Support Vector Machine (SVM).
+Machine learning application that classifies Indonesian poetry using **TF-IDF** and **Support Vector Machine (SVM)**.
 
 **Tech Stack**
 
 `Python` • `Scikit-learn` • `Flask`
 
-🔗 **Repository:** *(add your repository link)*
+🔗 Repository: **Coming Soon**
 
----
+<br>
 
-## 🎨 3D Computer Graphics
+### 🎨 3D Computer Graphics
 
-Interactive 3D graphics application implementing object transformations, texturing, lighting, and rendering concepts using OpenGL.
+Interactive OpenGL application implementing transformations, lighting, texturing, and object rendering.
 
 **Tech Stack**
 
 `C++` • `OpenGL`
 
-🔗 **Repository:** *(add your repository link)*
+🔗 Repository: **Coming Soon**
 
----
+<br>
 
-# GitHub Analytics
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PradenaTiara&show_icons=true&hide_border=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PradenaTiara&show_icons=true&hide_border=true&theme=transparent"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradenaTiara&layout=compact&hide_border=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradenaTiara&layout=compact&hide_border=true&theme=transparent"/>
 
 </div>
 
----
+<br>
 
-# Current Focus
+# 🎯 Current Focus
 
 - Frontend Development
 - Software Quality Assurance
 - Test Automation
 - UI/UX
-- Responsive Web Applications
 - Clean Code
+- Responsive Web Applications
 
----
-
-# Connect with Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/pradenatiara/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:pradenat@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://pradenatiara.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge"/>
-</a>
-
-</p>
-
----
+<br>
 
 <div align="center">
+
+### Thanks for visiting!
 
 *"Code with purpose. Learn continuously. Build with quality."*
 
