@@ -2,18 +2,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Pradena%20Tiara%20Maharani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20Software%20Quality%20Assurance%20Enthusiast&descAlignY=58"/>
 
-<p>
+<p align="center">
 
 <a href="https://pradenatiara.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://badgen.net/badge/Portfolio/Visit/111827?icon=chrome"/>
 </a>
 
 <a href="https://linkedin.com/in/pradenatiara">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://badgen.net/badge/LinkedIn/Connect/0A66C2?icon=linkedin"/>
 </a>
 
 <a href="mailto:pradenat@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://badgen.net/badge/Gmail/Contact/EA4335?icon=gmail"/>
 </a>
 
 </p>
