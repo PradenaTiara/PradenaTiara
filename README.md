@@ -193,6 +193,8 @@ Interactive OpenGL application implementing transformations, lighting, camera, t
 
 <div align="center">
 
+### 💙 Thanks for visiting!
+
 ###
 
 <picture data-importer="pacman">
@@ -202,8 +204,6 @@ Interactive OpenGL application implementing transformations, lighting, camera, t
 </picture>
 
 ###
-
-### 💙 Thanks for visiting!
 
 <img src="https://komarev.com/ghpvc/?username=PradenaTiara&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
 
