@@ -94,13 +94,13 @@ Built a machine learning application to classify Indonesian poetry using TF-IDF 
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/pradenatiara/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:pradenat@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://pradenatiara.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square">
   </a>
 </p>
