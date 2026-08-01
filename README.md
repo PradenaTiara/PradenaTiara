@@ -60,15 +60,22 @@ const tiara = {
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,js,vue,tailwindcss"/>
 
-### Backend & Database
+### Backend
 
-<img src="https://skillicons.dev/icons?i=python,cpp,postgres,mysql"/>
+<img src="https://skillicons.dev/icons?i=php,nodejs,java,spring,python,cpp"/>
+
+### Database
+<div align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50"/>
+</div>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman"/>
 
 </div>
 
