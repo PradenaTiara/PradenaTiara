@@ -213,13 +213,9 @@ Repository →
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="mailto:pradenat@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://pradenatiara.vercel.app/">
 <img src="https://img.icons8.com/fluency/48/domain.png" width="48"/>
