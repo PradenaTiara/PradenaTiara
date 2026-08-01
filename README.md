@@ -204,3 +204,13 @@ Interactive OpenGL application implementing transformations, lighting, camera, t
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PradenaTiara/PradenaTiara/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PradenaTiara/PradenaTiara/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PradenaTiara/PradenaTiara/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
