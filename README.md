@@ -6,7 +6,7 @@
 <a href="https://pradenatiara.vercel.app">
 <img src="https://img.icons8.com/color/48/domain.png" height="58"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/pradenatiara">
 <img src="https://skillicons.dev/icons?i=linkedin" height="58"/>
 </a>
